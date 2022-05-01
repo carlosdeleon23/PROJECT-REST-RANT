@@ -1,4 +1,4 @@
-# ** Project REST-Rant**
+# **Project REST-Rant**
 
 ## ***REST-Rant is an app where users can review restaurants.***
 
@@ -15,3 +15,16 @@
 | POST   | /places/:id/rant | Create a rant (comment) about a particular place |
 | DELETE | /places/:id/rant/:rantId | Delete a rant (comment) about a particular place |
 | GET    | * | 404 page (matches any route not defined above) |
+
+## Database
+
+**Places** 
+
+| Field | Type |
+| ---------- | ------------ |
+| _id | Object ID |
+| Name | String |
+| City | String |
+| State | String |
+| Cuisines | String |
+| Pic | String |
