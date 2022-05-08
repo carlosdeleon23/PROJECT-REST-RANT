@@ -7,7 +7,7 @@ function home () {
             <main>
     <h1>Rrest-Rant</h1>
     <div>
-      <img className="typical" src="/images/typical.jpg" alt="Breakfast"/>
+      <img className="typical" src="/images/typical.jpg" alt="Food1"/>
       <div className='center'>
        Photo by <a href="https://unsplash.com/@nils_b?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Nils Bokobza</a>
       </div>
